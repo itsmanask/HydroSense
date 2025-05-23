@@ -50,7 +50,7 @@ To empower farmers with a **self-regulating irrigation system** that:
 
 ## 🛠️ Latest Enhancements
 
-- Replaced relay control with **L298N motor driver** for advanced motor speed regulation.
+- Replaced relay control with **ArduinoUNO** & **L298N motor driver** for advanced motor speed regulation.
 - Added **Bluetooth module (HC-05)** for mobile-based real-time monitoring and control.
 - Implemented **buzzer alert system** to notify irrigation activation.
 - Fully **simulated in Proteus**, including:
